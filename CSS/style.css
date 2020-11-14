@@ -1,0 +1,37 @@
+.hack
+{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  #subtitle{
+      color: rgb(165, 156, 156);
+      font-style: italic;
+      font-family: Arial, Helvetica, sans-serif;
+  }
+  .right {
+    position: fixed;
+    top: 0;
+    left: auto;
+    right: 0;
+    width: 300px;
+  }
+
+  p, li {
+      font-family: Arial, Helvetica, sans-serif;
+      color: rgb(61, 61, 61);
+  }
+
+  #introductionText{
+      padding: 20px;
+  }
